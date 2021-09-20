@@ -33,58 +33,128 @@
 <a name="implementation-of-a-linked-list"></a>
 ## Implementation of a Linked List
 
+```java
+public class SinglyLinkedList {
+	
+	private ListNode head;
+	
+	private static class ListNode {
+		private int data; // Can be a generic type
+		private ListNode next; // Reference to next ListNode in list
+		
+		public ListNode(int data) {
+			this.data = data;
+			this.next = null;
+		}
+	}
+}
+```
+
 <a name="create-a-linked-list"></a>
 ## Create a Linked List
+
+```java
+```
 
 <a name="print-elements-of-a-linked-list"></a>
 ## Print Elements of a Linked List
 
+```java
+```
+
 <a name="length-of-a-linked-list"></a>
 ## Length of a Linked List
+
+```java
+```
 
 <a name="insert-a-node-at-the-beginning-of-a-linked-list"></a>
 ## Insert a node at the Beginning of a Linked List
 
+```java
+```
+
 <a name="insert-a-node-at-the-end-of-a-linked-list"></a>
 ## Insert a node at the End of a Linked List
+
+```java
+```
 
 <a name="insert-a-node-at-the-nth-position-of-a-linked-list"></a>
 ## Insert a node at the Nth Position of a Linked List
 
+```java
+```
+
 <a name="delete-first-node-from-a-linked-list"></a>
 ## Delete first node from a Linked List
+
+```java
+```
 
 <a name="delete-end-node-from-a-linked-list"></a>
 ## Delete End node from a Linked List
 
+```java
+```
+
 <a name="delete-node-at-the-nth-position-of-a-linked-list"></a>
 ## Delete node at the Nth position of a Linked List
+
+```java
+```
 
 <a name="search-a-given-key-or-element-in-a-linked-list"></a>
 ## Search a given key or element in a Linked List
 
+```java
+```
+
 <a name="reverse-a-singly-linked-list"></a>
 ## Reverse a singly linked list
+
+```java
+```
 
 <a name="find-the-middle-node-in-a-linked-list"></a>
 ## Find the Middle node in a Linked List
 
+```java
+```
+
 <a name="nth-node-from-the-end-of-the-linked-list"></a>
 ## Nth node from the end of the Linked List
+
+```java
+```
 
 <a name="insert-a-node-in-a-sorted-Linked-List"></a>
 ## Insert a node in a sorted Linked List
 
+```java
+```
+
 <a name="remove-a-given-key-element-from-a-linked-list"></a>
 ## Remove a given key element from a Linked List
+
+```java
+```
 
 <a name="delete-a-loop-in-a-linked-list"></a>
 ## Delete a Loop in a Linked List
 
+```java
+```
+
 <a name="reverse-a-linked-List-in-group-of-given-size"></a>
 ## Reverse a Linked List in group of given size
+
+```java
+```
 
 <a name="find-the-starting-point-of-a-loop-in-a-linked-list"></a>
 ## Find the Starting point of a Loop in a Linked List
 
+```java
+```
  
