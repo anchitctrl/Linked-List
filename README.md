@@ -1,6 +1,6 @@
 # Linked-List :man_technologist:
 
-### Hey there :smiling_face_with_three_hearts: , first of all welcome to this repository. If you are looking for an amazinf resource to learn Linked List, this is the place. I am including all the basics to important questions here which will definitely help you land to your dream object. <br />
+### Hey there :pray: , first of all welcome to this repository. If you are looking for an amazinf resource to learn Linked List, this is the place. I am including all the basics to important questions here which will definitely help you land to your dream object. <br />
 
 ### Data Structures and Algorithm is the most important topic to give you a Job, and Linked List is something which everyone finds quite easier to learn, so if you think you are good in Linked List you can go through, and revise this topic and keep it fresh. 
 <br />
