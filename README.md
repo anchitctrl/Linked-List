@@ -5,7 +5,7 @@
 ### Data Structures and Algorithm is the most important topic to give you a Job, and Linked List is something which everyone finds quite easier to learn, so if you think you are good in Linked List you can go through, and revise this topic and keep it fresh. 
 <br />
 
-> #### `Zindagi Gulzar honi chahiye, Sort to Linked List bhi hoti hai - Unknown`
+> #### Zindagi Gulzar honi chahiye, Sort to Linked List bhi hoti hai - Unknown
 
 ## Table of Contents
 
