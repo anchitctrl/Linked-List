@@ -1,4 +1,4 @@
-# Linked-List
+# Linked-List :man_technologist:
 
 ### Hey there :smiling_face_with_three_hearts: , first of all welcome to this repository. If you are looking for an amazinf resource to learn Linked List, this is the place. I am including all the basics to important questions here which will definitely help you land to your dream object. <br />
 
