@@ -373,6 +373,7 @@ public class Solution {
                     slow = slow.next;
                     
                     if (fast == slow){
+		        // At this point Loop is detected, Now we can introducr slow2 to delete the same.
                         ListNode slow2 = head;
                         // ListNode previous1=null;
                         // ListNode previous2=null;
